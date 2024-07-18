@@ -1,0 +1,2 @@
+# CyberFinanceBot
+CyberFinanceBot App AutoClicker
